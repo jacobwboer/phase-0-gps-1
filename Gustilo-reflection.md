@@ -23,7 +23,7 @@ Git workflow -
 
 >3. Create a snapshot of the current branch by making a commit.
 
-4. Push your updated branch to the remote repository, and make a pull request for that branch to be merged with the branch upstream.
+>4. Push your updated branch to the remote repository, and make a pull request for that branch to be merged with the branch upstream.
 
 >5. Review changes in the pull request, and when satisfied, merge with the master repo.
 
