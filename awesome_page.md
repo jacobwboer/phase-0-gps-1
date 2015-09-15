@@ -12,3 +12,5 @@
 [Visit Github! Yay](www.github.com)
 
 ![Image of us working](/Pic_of_us_working.png)
+
+This is a change for the merge problem.
