@@ -13,4 +13,6 @@
 
 ![Image of us working](/Pic_of_us_working.png)
 
-This is a change for the merge problem.
+
+This is a problem in with merging.
+
