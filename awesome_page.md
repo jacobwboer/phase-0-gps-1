@@ -11,4 +11,4 @@
 
 [Visit Github! Yay](www.github.com)
 
-![Image of us working](/phase-0-gps-1/phase-0-gps-1.jpeg)
+![Image of us working](/Pic_of_us_working.png)
